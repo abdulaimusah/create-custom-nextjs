@@ -1,0 +1,15 @@
+{
+    "name": "am-create-custom-nextjs",
+    "version": "1.0.0",
+    "description": "Create a customized Next.js app",
+    "main": "index.js",
+    "bin": {
+      "am-create-custom-nextjs": "./index.js"
+    },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": ["nextjs", "template", "custom"],
+    "author": "Your Name",
+    "license": "MIT"
+  }
