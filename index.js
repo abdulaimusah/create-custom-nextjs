@@ -40,7 +40,6 @@ function copyTemplateFiles(templatePath, projectPath) {
   const filesToCopy = [
     "src/components/AppWrapper.tsx",
     "src/components/AppLayout.tsx",
-    "src/components/Header.tsx",
     "src/utils/axios.ts",
     "src/utils/authUtils.ts",
     "src/theme/themeConfig.ts",
