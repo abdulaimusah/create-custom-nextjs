@@ -1,6 +1,6 @@
 {
     "name": "am-create-custom-nextjs",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Create a customized Next.js app",
     "main": "index.js",
     "bin": {
